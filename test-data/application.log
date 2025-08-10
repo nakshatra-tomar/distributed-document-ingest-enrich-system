@@ -1,0 +1,10 @@
+2024-02-20 09:15:01 INFO  [main] Service boot initiated (version=1.3.2)
+2024-02-20 09:15:02 INFO  [database] Connection pool established (size=20)
+2024-02-20 09:15:03 DEBUG [api] GET /health responded 200 in 12ms
+2024-02-20 09:15:04 WARN  [cache] Eviction threshold reached: 78% memory used
+2024-02-20 09:15:05 DEBUG [worker-2] Queued job: job_id=job_921ab latency=34ms
+2024-02-20 09:15:06 ERROR [payment] Stripe charge failed: txn=tx_91422 code=card_declined
+2024-02-20 09:15:07 INFO  [scheduler] Nightly index rebuild started (index=docs_v2)
+2024-02-20 09:15:08 DEBUG [auth] Token refresh success for user_id=84751
+2024-02-20 09:15:09 ERROR [database] Deadlock detected; retrying transaction (attempt=2)
+2024-02-20 09:15:10 INFO  [main] Startup complete; ready on port 8082

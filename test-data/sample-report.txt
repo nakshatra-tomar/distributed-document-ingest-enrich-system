@@ -1,0 +1,31 @@
+Quarterly Business Report – Q4 2024
+
+Executive Summary:
+Q4 closed above plan with strong expansion in enterprise accounts and improved unit economics. 
+Operational investments in observability and pipeline reliability reduced incident minutes by 35%.
+
+Financial Performance:
+- Revenue grew 12% vs. Q3 2024; +29% YoY
+- Gross margin improved from 63% to 66% driven by infra rightsizing
+- Operating expenses flat QoQ; net margin reached 13.2%
+
+Market Analysis:
+Cloud data platforms demand remained resilient, with increased adoption of AI-enabled search and 
+summarization. Competitive wins were strongest in regulated industries (finance, utilities).
+
+Operational Highlights:
+- Zero P1 incidents during peak holiday period
+- Rolled out NLP-based enrichment v2 (accuracy +8pp on benchmark set)
+- Reduced average indexing latency from 850ms to 540ms
+
+Risks & Mitigations:
+- Vendor price increases → negotiated 2-year commit discounts
+- Talent retention → expanded L&D budget; instituted structured career paths
+
+Future Outlook:
+Expect continued growth in Q1 2025 with focus on advanced search, fine-grained access controls, 
+and cost optimization. Targeting 10–12% QoQ revenue growth.
+
+Conclusion:
+Q4 2024 delivered healthy growth and stability. The business enters 2025 with a strong pipeline 
+and clearer operating leverage.
